@@ -1,4 +1,5 @@
-#hodgepodge
+# hodgepodge
+
 mkdir ~/.VPN && mv Downloads/XXXXXX.ovpn ~/.VPN   
 echo "sudo openvpn ~/.VPN/XXXXXXX.ovpn" >> ~/.VPN/thm.sh
 
