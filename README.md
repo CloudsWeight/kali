@@ -1,2 +1,2 @@
 # kali
-kali hodgepodge
+kali hodgepodge of stuff used in the lab
