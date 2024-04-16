@@ -1,7 +1,7 @@
 # kali
 kali hodgepodge of stuff used in the lab
 
-[!NOTE]
+**Note**
 
 Download the below code assumes the Try Hack Me VPN file is located in the Downloads and the XXXXXX needs replacing with your file
 
